@@ -1,0 +1,15 @@
+
+/* :where(.css-dev-only-do-not-override-12jzuas).ant-btn-primary {
+    background-color: blue !important;
+} */
+/* .categories::before{
+    content: "toi la viet";
+    width: 100px;
+    height: 100px;
+    background-color: #000;
+} */
+
+.categories:hover .block{
+    display: block !important;
+    
+}

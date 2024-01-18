@@ -1,0 +1,13 @@
+.button_checkout{
+    display: flex;
+    align-items: center;
+    font-size: 1.2858rem;
+    line-height: normal;
+    justify-content: center;
+    letter-spacing: 3px;
+    font-weight: 700;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border: 1px solid rgba(0,0,0,.16);
+    box-shadow:0 4px 6px -2px rgba(35,67,92,.32);
+}

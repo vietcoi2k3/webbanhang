@@ -1,0 +1,25 @@
+
+.product-cart_options{
+    font-size: .857rem;
+    line-height: 1.66;
+    margin-bottom: 8px;
+    color: #999;
+    font-weight: 400;
+    line-height: 21px;
+}
+
+.product-cart__price {
+    font-size: 14px;
+    color: #3e3d3d;
+    line-height: 18px;
+    font-weight: 700;
+    letter-spacing: 0px;
+}
+
+.quantity{
+    font-weight: 400;
+    list-style: 20px;
+    font-size: 14px;
+    color: #4d4d4d;
+
+}
